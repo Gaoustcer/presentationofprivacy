@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{problem background}{3}{0}{1}
+\beamer@sectionintoc {2}{Solution:generative fake data}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Intro of generative model}{6}{0}{2}
+\beamer@sectionintoc {3}{problem of generative model}{7}{0}{3}
+\beamer@sectionintoc {4}{How to Solve privacy leakage in Generative Model}{9}{0}{4}
+\beamer@subsectionintoc {4}{1}{Review the concept DP}{9}{0}{4}
+\beamer@subsectionintoc {4}{2}{How to define privacy and utility in Generative Model}{10}{0}{4}
+\beamer@subsectionintoc {4}{3}{An example}{11}{0}{4}
