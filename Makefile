@@ -7,4 +7,7 @@ clean:
 	rm *.toc
 	rm *.vrb
 all:
-	pdflatex presentation
+	pdflatex presentation.tex
+	bibtex presentation.aux
+	pdflatex presentation.tex
+	pdflatex presentation.tex
