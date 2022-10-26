@@ -1,0 +1,14 @@
+\beamer@sectionintoc {1}{problem background}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Data for machine learning}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Generative model for privacy protection}{4}{0}{1}
+\beamer@sectionintoc {2}{Solution:generate fake data}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Introduction of GAN}{5}{0}{2}
+\beamer@subsectionintoc {2}{2}{DP definition}{6}{0}{2}
+\beamer@subsectionintoc {2}{3}{For Generative Model DP}{7}{0}{2}
+\beamer@sectionintoc {3}{How to Solve privacy leakage in Generative Model}{8}{0}{3}
+\beamer@sectionintoc {4}{How to Solve privacy leakage in Generative Model}{8}{0}{4}
+\beamer@subsectionintoc {4}{1}{Review the concept DP}{8}{0}{4}
+\beamer@subsectionintoc {4}{2}{How to define privacy and utility in Generative Model}{10}{0}{4}
+\beamer@subsubsectionintoc {4}{2}{1}{For Attacker}{11}{0}{4}
+\beamer@subsubsectionintoc {4}{2}{2}{utility}{13}{0}{4}
+\beamer@sectionintoc {5}{Tasks and Division of work}{14}{0}{5}
