@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2022.10.19)  26 OCT 2022 11:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2022.10.19)  26 OCT 2022 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -645,7 +645,7 @@ Package: amsthm 2017/10/31 v2.20.4
 )
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
 (./beamerthemeCNU.sty
-Package: beamerthemeCNU 2020/08/01
+Package: beamerthemeCNU 2022/10/26
 
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemesidebar.sty
 \beamer@sidebarwidth=\dimen190
@@ -1222,21 +1222,21 @@ Package: listings 2015/06/04 1.6 (Carsten Heinz)
 (./presentation.aux)
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 41.
 
  (/usr/share/texmf/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1307,7 +1307,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box67
-Package hyperref Info: Link coloring OFF on input line 40.
+Package hyperref Info: Link coloring OFF on input line 41.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1317,60 +1317,60 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count190
 )
-LaTeX Info: Redefining \ref on input line 40.
-LaTeX Info: Redefining \pageref on input line 40.
-LaTeX Info: Redefining \nameref on input line 40.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 
 (./presentation.out) (./presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 40.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 40.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 40.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 40.
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 41.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> OT1/lmr/m/n on input line 40.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 40.
+(Font)                  OT1/lmss/m/n --> OT1/lmr/m/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 40.
+(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 40.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+(Font)                  OT1/lmr/bx/n --> OT1/lmss/bx/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 40.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 40.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 40.
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/m/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 40.
+(Font)                  OT1/lmr/m/it --> OT1/lmss/m/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 40.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 40.
+(Font)                  OT1/lmr/bx/it --> OT1/lmss/m/it on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 40.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 40.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 40.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 40.
+(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/bx/n --> OT1/lmr/bx/n on input line 40.
+(Font)                  OT1/lmss/bx/n --> OT1/lmr/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> OT1/lmss/bx/n on input line 40.
+(Font)                  OT1/lmss/bx/n --> OT1/lmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 40.
+(Font)                  OT1/lmss/m/n --> OT1/lmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 40.
+(Font)                  OT1/lmss/m/it --> OT1/lmss/bx/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> OT1/lmtt/bx/n on input line 40.
+(Font)                  OT1/lmtt/m/n --> OT1/lmtt/bx/n on input line 41.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1396,7 +1396,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \microtypecontext on input line 40.
+LaTeX Info: Redefining \microtypecontext on input line 41.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1413,41 +1413,29 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 \c@lstlisting=\count191
- (./presentation.nav) [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./small-logo.png>] (./pres
-entation.toc) [2
-
- <./main-logo.png>]
-[3
-
-] [4
-
-]
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 117.
-
+ (./presentation.nav)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 46.
  (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 117
-.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 46.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 117
-.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 46.
+
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 117.
+(Font)              <10.95> on input line 46.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 117.
+(Font)              <8> on input line 46.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 117.
-LaTeX Font Info:    Try loading font information for U+msa on input line 117.
+(Font)              <6> on input line 46.
+LaTeX Font Info:    Try loading font information for U+msa on input line 46.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1455,7 +1443,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 117.
+LaTeX Font Info:    Try loading font information for U+msb on input line 46.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1464,22 +1452,36 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 117.
-
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 46.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 117.
-
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 46.
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 117.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 46.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 46.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 46.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <9> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 46.
+LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <5> not available
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 46.
+ [1
 
- [5
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./small-logo.png>] (./pres
+entation.toc)
+[2
+
+ <./main-logo.png>] [3
+
+] [4
+
+] [5
 
 ] [6
 
 ] [7
 
-]
-[8
+] [8
 
 ] [9
 
@@ -1495,9 +1497,10 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <6> not available
 
 ]
 LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <14.4> not available
-(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 286.
+(Font)              Font shape `OT1/lmss/m/sl' tried instead on input line 229.
 
- [15
+
+[15
 
 ] (./presentation.bbl) [16
 
@@ -1511,20 +1514,20 @@ LaTeX Font Info:    Font shape `OT1/lmss/m/it' in size <14.4> not available
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 236.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 292.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 236.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 236.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
-(rerunfilecheck)             Checksum: 05B1040CC7317979E17793892F404544;882.
+(rerunfilecheck)             Checksum: 2A7A60DD0725CE8791074692C22FF6D4;882.
  ) 
 Here is how much of TeX's memory you used:
- 22425 strings out of 492982
- 407074 string characters out of 6134895
- 536615 words of memory out of 5000000
- 25382 multiletter control sequences out of 15000+600000
- 44480 words of font info for 52 fonts, out of 8000000 for 9000
+ 22486 strings out of 492982
+ 408219 string characters out of 6134895
+ 536958 words of memory out of 5000000
+ 25432 multiletter control sequences out of 15000+600000
+ 55141 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,16n,71p,793b,562s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
@@ -1539,10 +1542,10 @@ fb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts
 b></usr/share/texmf/fonts/type1/public/lm/lmsso8.pfb></usr/share/texmf/fonts/ty
 pe1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on presentation.pdf (16 pages, 465966 bytes).
+Output written on presentation.pdf (16 pages, 464157 bytes).
 PDF statistics:
- 450 PDF objects out of 1000 (max. 8388607)
- 401 compressed objects within 5 object streams
+ 434 PDF objects out of 1000 (max. 8388607)
+ 386 compressed objects within 4 object streams
  49 named destinations out of 1000 (max. 500000)
- 12949 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 16021 words of extra memory for PDF output out of 17280 (max. 10000000)
 

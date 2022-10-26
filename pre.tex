@@ -57,7 +57,7 @@
 % \end{itemize}
 % \addtocounter{framenumber}{-1}
 \end{frame}
-\section{problem background}
+\section{Pproblem background}
 \subsection{Data for machine learning}
 \begin{frame}
     \frametitle{Data for machine learning}
@@ -92,7 +92,7 @@
     \end{itemize}
 \end{frame}
 
-\section{Solution:generate fake data}
+\section{Solution: generate fake data}
 \subsection{Introduction of GAN}
 \begin{frame}
     \frametitle{Introduction of GAN}
@@ -116,8 +116,9 @@
     \end{itemize}
 \end{frame}
 
-\subsection{DP definition}
+\subsection{Problem of generative model}
 \begin{frame}
+    \frametitle{Problem of generative model}
     \begin{itemize}
     \item Most privacy-preserving training algorithms for neural network models is \textbf{manipulating}
   the gradient information generated during backpropagation.
@@ -130,19 +131,14 @@
   \end{itemize} 
 \end{frame}
 
-% \begin{frame}{CNU beamer theme}
-% \begin{itemize}
-%     \item The beamer theme with CNU style
-%     \item Modified from: https://github.com/liantze/beamer-gelugor 
-% \end{itemize}
-% \end{frame}
-\subsection{For Generative Model DP}
+\section{How to solve privacy leakage in Generative Model}
+\subsection{Review DP}
 \begin{frame}
 \frametitle{Review DP}
     \begin{itemize}
         \item \textbf{Neighboring dataset}\\[5pt]
         $D, D'$:differed with only a piece of data\\[20pt]
-        \item \textbf{(Differential Privacy}\\[5pt]
+        \item \textbf{Differential Privacy}\\[5pt]
         $Pr[M(D) \in O] \leq e^{\epsilon}Pr[M(D') \in O] + \delta$\\[5pt]
         $M$:a random algorithm\\
         $O$: output set\\
@@ -151,12 +147,9 @@
         $\delta$:disturbance\\
     \end{itemize}
 \end{frame}
-\section{How to Solve privacy leakage in Generative Model}
 
-
-\section{How to Solve privacy leakage in Generative Model}
-\subsection{Review the concept DP}
 \begin{frame}
+\frametitle{Review DP}
     Suppose $\mathcal{M}:\R^n\to X$,
     X is called mapping Space and $\mathcal M$
      is called map from origin space into mapping space.
@@ -166,7 +159,9 @@
      \end{equation}
      What is $\mathcal M$,input space and mapping space in this scenario?
 \end{frame}
+
 \begin{frame}
+\frametitle{Review DP}
   Acccording the define of \cite{ref1},$\mathcal{M}$ is the generative model.Its input space is consisted with training data and its mapping space is consisted with its output.
   Take Conditional-VAE for an example.Suppose training data takes with following formular
   \begin{equation}
@@ -177,12 +172,12 @@
 \end{frame}
 \subsection{How to define privacy and utility in Generative Model}
 \begin{frame}
-    \frametitle{privacy define}
+    \frametitle{Privacy define}
     Possibility is hard to quantify for NN model.So we take several ways to varify our model satisify $(\epsilon,\delta)$ privacy
 \end{frame}
-\subsubsection{For Attacker}
+\subsubsection{Whether an item is sampled from the dataset}
 \begin{frame}
-  \frametitle{From Attackers}
+  \frametitle{From attackers}
   One of the goal of the attacker is to varify whether a data is from or not from the dataset.If the privacy dataset $\mathcal D$ is revealed.We can build the attacker from $\mathcal D$
   \begin{itemize}
     \item sample k data $x\in \mathcal D$ and sample k noise from $\R^n$ but $\notin \mathcal D$.Denoted as $X = x_1,x_2,\cdots,x_k$ and $Y = y_1,y_2,\cdots,y_k$
@@ -192,14 +187,15 @@
   In this term,privacy true image $\mathcal{X}$ is not provided for training of $\mathcal{C}$.We provided generative training data $\hat {mathcal{X}}$ which is generated from privacy dataset $\mathcal{D}$.
 \end{frame}
 \begin{frame}
-  \frametitle{For Attackers}
+  \frametitle{For attackers}
   suppose P is the Possibility attacker could correctly varify the real data through generative data.We define privacy loss
   \begin{equation}
     privacy\ loss = \frac{P-0.5}{0.5}
   \end{equation}
 \end{frame}
-\subsubsection{utility}
+\subsubsection{Uutility}
 \begin{frame}
+\frametitle{Utility experiment}
   use generative data for image classifier task.We train the downstream image classifier model with Training data $T_{train}$ and validate the training accuracy with testing data $T_{test}$.There are four condition for utility measurement.
   \begin{tabular}{|l|c|c|}
   \hline
@@ -213,13 +209,13 @@
   We call $p_1 - p_2$ accuracy loss from the generative process
 \end{frame}
 
-\section{Tasks and Division of work}
+\section{Tasks and division of work}
 \begin{frame}
-  \frametitle{Work Schedule}
+  \frametitle{Work schedule}
   \begin{itemize}
-    \item Gaohaihan: Algorithm design and implementation of main model and add privacy into whole model
-    \item ChenXiaolu: Research of previous work and implementation of Attackers
-    \item Zhangli: Report writing,research of privacy attack and implementation of utility network
+    \item Haihan Gao: Algorithm design and implementation of main model and add privacy into whole model
+    \item Xiaolu Chen: Research of previous work and implementation of Attackers
+    \item Li Zhang: Report writing,research of privacy attack and implementation of utility network
   \end{itemize}
 \end{frame}
 
@@ -228,9 +224,9 @@
   \emph{Thank you!}
 \end{frame}
 
-\begin{frame}[plain,noframenumbering]{}
-\bibliographystyle{plain}
-\bibliography{bibfile}
+\begin{frame}[plain, noframenumbering]{}
+    \bibliographystyle{plain}
+    \bibliography{bibfile}
   
 \end{frame}
 \end{document}

@@ -21,18 +21,18 @@
 \headcommand {\slideentry {2}{1}{1}{5/5}{Introduction of GAN}{0}}
 \headcommand {\beamer@framepages {5}{5}}
 \headcommand {\beamer@subsectionpages {5}{5}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{6}{problem of generative model}}
-\headcommand {\slideentry {2}{2}{1}{6/6}{problem of generative model}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{6}{DP definition}}
+\headcommand {\slideentry {2}{2}{1}{6/6}{DP definition}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\beamer@sectionpages {5}{6}}
 \headcommand {\beamer@subsectionpages {6}{6}}
-\headcommand {\sectionentry {3}{How to Solve privacy leakage in Generative Model}{7}{How to Solve privacy leakage in Generative Model}{0}}
-\headcommand {\beamer@subsectionpages {7}{6}}
-\headcommand {\beamer@subsectionentry {0}{3}{1}{7}{Review DP}}
-\headcommand {\slideentry {3}{1}{1}{7/7}{Review DP}{0}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{7}{For Generative Model DP}}
+\headcommand {\slideentry {2}{3}{1}{7/7}{For Generative Model DP}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\beamer@sectionpages {7}{7}}
+\headcommand {\beamer@sectionpages {5}{7}}
 \headcommand {\beamer@subsectionpages {7}{7}}
+\headcommand {\sectionentry {3}{How to Solve privacy leakage in Generative Model}{8}{How to Solve privacy leakage in Generative Model}{0}}
+\headcommand {\beamer@sectionpages {8}{7}}
+\headcommand {\beamer@subsectionpages {8}{7}}
 \headcommand {\sectionentry {4}{How to Solve privacy leakage in Generative Model}{8}{How to Solve privacy leakage in Generative Model}{0}}
 \headcommand {\beamer@subsectionpages {8}{7}}
 \headcommand {\beamer@subsectionentry {0}{4}{1}{8}{Review the concept DP}}
@@ -44,7 +44,7 @@
 \headcommand {\beamer@subsectionentry {0}{4}{2}{10}{How to define privacy and utility in Generative Model}}
 \headcommand {\slideentry {4}{2}{1}{10/10}{How to define privacy and utility in Generative Model}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\beamer@subsubsectionentry {0}{4}{2}{1}{11}{Whether an item is sampled from the dataset}}
+\headcommand {\beamer@subsubsectionentry {0}{4}{2}{1}{11}{For Attacker}}
 \headcommand {\slideentry {4}{2}{2}{11/11}{How to define privacy and utility in Generative Model}{0}}
 \headcommand {\beamer@framepages {11}{11}}
 \headcommand {\slideentry {4}{2}{3}{12/12}{How to define privacy and utility in Generative Model}{0}}
@@ -65,4 +65,4 @@
 \headcommand {\beamer@subsectionpages {14}{16}}
 \headcommand {\beamer@sectionpages {14}{16}}
 \headcommand {\beamer@documentpages {16}}
-\headcommand {\gdef \inserttotalframenumber {13}}
+\headcommand {\gdef \inserttotalframenumber {12}}
